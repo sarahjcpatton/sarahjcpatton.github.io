@@ -9,6 +9,8 @@ Plain HTML website with static files.
 ### Notes
 
 - [EDIT FILES HERE](public)
+- [Internal URL](http://sarahjcpatton.gitlab.io)
+- [External URL](http://www.sarahcormackpatton.com)
 - [Web Editor Documentation](https://docs.gitlab.com/ce/user/project/repository/web_editor.html)
 
 ### GitLab CI
