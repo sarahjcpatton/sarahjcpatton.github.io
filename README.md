@@ -8,7 +8,7 @@ Plain HTML website with static files.
 
 ### Notes
 
-- [EDIT FILES HERE](../tree/master/public)
+- [EDIT FILES HERE](public)
 - [Web Editor Documentation](https://docs.gitlab.com/ce/user/project/repository/web_editor.html)
 
 ### GitLab CI
