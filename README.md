@@ -6,6 +6,10 @@ Plain HTML website with static files.
 
 ![Build Status](https://gitlab.com/pages/plain-html/badges/master/build.svg)
 
+### Notes
+
+- [Web Editor Documentation](https://docs.gitlab.com/ce/user/project/repository/web_editor.html)
+
 ### GitLab CI
 
 This project's static Pages are built by
