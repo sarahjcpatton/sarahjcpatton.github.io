@@ -2,9 +2,11 @@
 
 Plain HTML website with static files.
 
-### GitLab CI
+### Status
 
 ![Build Status](https://gitlab.com/pages/plain-html/badges/master/build.svg)
+
+### GitLab CI
 
 This project's static Pages are built by
 [GitLab CI](https://about.gitlab.com/gitlab-ci/), following the steps defined
