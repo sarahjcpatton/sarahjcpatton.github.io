@@ -22,7 +22,7 @@ footer {
 footer .copyright {margin: 0;}
 
 .teaching-experience {
-  padding: 15px;
+  width: 100%;
   border: 1px solid #3e3f3a;
   border-collapse: collapse;
 }
